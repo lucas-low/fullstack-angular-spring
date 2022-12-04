@@ -1,14 +1,10 @@
-This is not a Netflix but just a Entertainment Web App
+### Purpose
+```
+A practice project on Full- stack Angular/Typescript (Frontend) with Java Spring Boot (Backend)
 
-A Full- stack entertainment web app built with TypeScript, ReactJS, Firebase Auth for POC (MONGODB/EXPRESS for larger scale), Styled-Components, TMDB API, React Testing, React-Router.
+Generally done by seperating angular and spring boot into two separate projects.
 
-## Features
+Spring boot is used to build a REST or GraphQL backend API. This will connect to any databases, for this I will be using MySQL.
 
-- React with Typescript
-- Responsive
-- React Router 6
-- Queries, Mutations, Subscriptions, Static Typing for scalability
-- Firebase Authentication
-- powered by JWT and local storage
-- Sign Up, Sign In, Sign Out
-- E2E testing
+This allows for seperate team (large enterprises) and ability for seperate deployment.
+```
